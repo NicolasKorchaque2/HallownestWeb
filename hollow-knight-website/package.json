@@ -1,0 +1,23 @@
+{
+  "name": "hollow-knight-website",
+  "version": "1.0.0",
+  "description": "A website dedicated to the game Hollow Knight, featuring lore, images, and more.",
+  "main": "src/scripts/main.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "keywords": [
+    "Hollow Knight",
+    "game",
+    "website",
+    "lore"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
